@@ -38,3 +38,7 @@ The project involved:
 ### Requirements
 * PostgreSQL or any SQL system supporting standard ANSI SQL  
 * Optional: pgAdmin, Azure Data Studio, or Visual Studio Code with a SQL extension for running queries  
+
+### Data Source
+
+Thyge Pedersen, U. (n.d.). *Walmart Customer Purchase Behavior Dataset*. Kaggle. [Link](https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset/data?select=Walmart_customer_purchases.csv)
